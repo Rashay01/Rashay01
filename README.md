@@ -11,6 +11,8 @@ I build websites and web apps, front end to database. Then I automate the boring
 
 Looking for DevOps or full-stack roles.
 
+Now: working on TOMOSHI and building reusable Terraform patterns for AWS. [More on my /now page →](https://rashaydaya.co.za/now)
+
 [Portfolio](https://rashaydaya.co.za/) · [LinkedIn](https://za.linkedin.com/in/rashay-daya-795804262) · [CV](https://rashaydaya.co.za/Rashay_Daya_CV.pdf) · [Email](mailto:rashay.jcdaya@gmail.com)
 
 ## Selected projects
@@ -18,8 +20,12 @@ Looking for DevOps or full-stack roles.
 **[PR Version Bot](https://github.com/kaji-labs/pr-version-bot)** · TypeScript · GitHub Actions\
 A GitHub Action I built through Kaji Labs. Put a `release:minor` label on a pull request and merge it. The action bumps the version, writes the changelog entry, tags the commit and publishes the GitHub Release. It handles alpha, beta and rc pre-releases and monorepos too. Source-available.
 
+It versions my portfolio as well: 27 releases so far, none of them cut by hand.
+
 **[Portfolio](https://github.com/Rashay01/rashaydaya-portfolio)** · Next.js · TypeScript · Tailwind CSS\
-The code behind rashaydaya.co.za. Animation is Framer Motion and GSAP, plus a Three.js scene that only loads on desktop. Vitest covers the units and Playwright the end-to-end flows. GitHub Actions deploys it to Cloudflare Workers, and PR Version Bot cuts every release.
+The code behind rashaydaya.co.za. Animation is Framer Motion and GSAP, plus a Three.js scene that only loads on desktop. Vitest covers the units and Playwright the end-to-end flows. GitHub Actions deploys it to Cloudflare Workers.
+
+<a href="https://rashaydaya.co.za/"><img src="https://raw.githubusercontent.com/Rashay01/Rashay01/main/assets/portfolio.jpg" alt="Homepage of rashaydaya.co.za" width="400"></a>
 
 **[Insurance App](https://github.com/Rashay01/Insurance-app)** · Python · Flask · SQLAlchemy\
 A training project: policy management for luxury-item insurance. Customers register, take out policies and file claims. Nothing gets hard-deleted, so the history stays intact. The REST API is documented in Postman.
