@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="96" viewBox="0 0 880 96" role="img" aria-label="git push origin main, and the pipeline handles the rest">
+  <rect width="880" height="96" fill="#0d1117"/>
+  <rect x="0" y="0" width="4" height="96" fill="#3fb950"/>
+  <text x="28" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="600" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> git push origin main</text>
+  <text x="28" y="72" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">...and the pipeline handles the rest</text>
+</svg>
