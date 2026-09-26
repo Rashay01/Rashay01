@@ -3,8 +3,8 @@
 DevOps Engineer & Full-Stack Developer · Cape Town, South Africa
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="git push origin main, and the pipeline handles the rest" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rashay01/Rashay01/main/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/Rashay01/Rashay01/main/assets/banner-light.svg" alt="git push origin main, and the pipeline handles the rest" width="100%">
 </picture>
 
 I build websites and web apps, front end to database. Then I automate the boring part: tests, releases and deploys run through GitHub Actions, and I use Terraform for the cloud infrastructure underneath.
