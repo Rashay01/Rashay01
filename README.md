@@ -13,7 +13,7 @@ Looking for DevOps or full-stack roles.
 
 Now: working on TOMOSHI and building reusable Terraform patterns for AWS. [More on my /now page →](https://rashaydaya.co.za/now)
 
-[Portfolio](https://rashaydaya.co.za/) · [LinkedIn](https://za.linkedin.com/in/rashay-daya-795804262) · [CV](https://rashaydaya.co.za/Rashay_Daya_CV.pdf) · [Email](mailto:rashay.jcdaya@gmail.com)
+[Portfolio](https://rashaydaya.co.za/) · [LinkedIn](https://www.linkedin.com/in/rashaydaya) · [CV](https://rashaydaya.co.za/Rashay_Daya_CV.pdf) · [Email](mailto:rashay.jcdaya@gmail.com)
 
 ## Selected projects
 
